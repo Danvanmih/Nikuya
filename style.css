@@ -1,0 +1,50 @@
+body{
+	background-image: url(Фон.png);
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-attachment: fixed
+}
+#main_menu{
+    left: 0px;
+    top: 0px;
+    position: fixed;
+    background-color: #F56C00;	
+    width: 100%;
+    height: 5%;
+}
+#inf{
+	transform: scale(1.0);
+	transition: 0.5s all;
+    background-color: #F56C00;	
+}
+#inf:hover{
+	transform: scale(1.05);
+    background-color: #DE480B;	
+} 
+#projects{
+	transform: scale(1.0);
+	transition: 0.5s all;
+    background-color: #F56C00;	
+}
+#projects:hover{
+	transform: scale(1.05);
+    background-color: #DE480B;	
+} 
+#News{
+	transform: scale(1.0);
+	transition: 0.5s all;
+    background-color: #F56C00;	
+}
+#News:hover{
+	transform: scale(1.05);
+    background-color: #DE480B;	
+} 
+#Discord{
+	transform: scale(1.0);
+	transition: 0.5s all;
+    background-color: #F56C00;	
+}
+#Discord:hover{
+	transform: scale(1.05);
+    background-color: #DE480B;	
+} 
